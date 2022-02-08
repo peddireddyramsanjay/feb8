@@ -1,0 +1,8 @@
+a = int(input("given number1:-"))
+b = int(input("given number2:-"))
+print(a<b)
+print(a>b)
+print(a==b)
+print(a<=b)
+print(a>=b)
+print(a!=b)
